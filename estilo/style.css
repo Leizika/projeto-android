@@ -183,7 +183,7 @@ article img.pequena {
 aside {
     background-color: var(--cor1);
     border-radius: 10px 10px 0px 0px;
-    margin-left: 30px;
+    margin-left: 25px;
     min-width: 320px;
     margin-top: 25px;
     margin-right: 30px;
@@ -212,7 +212,7 @@ aside ul {
     list-style-type: '\2714\00A0\00A0';
     list-style-position: inside;
     columns: 2;
-    text-align: center;
+    text-align: left;
     
 }
 
